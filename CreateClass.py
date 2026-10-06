@@ -3,4 +3,7 @@ class PersegiPanjang:
         self.panjang = panjang
         self.lebar = lebar
     
+    def keliling(self):
+       
+
     
