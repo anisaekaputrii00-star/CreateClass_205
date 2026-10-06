@@ -16,5 +16,5 @@ persegi = PersegiPanjang(3,2)
 
 print("Keliling:", persegi.keliling(), "cm")
 print("Luas:", persegi.luas(), "cm²")
-
+print(persegi)
 
