@@ -11,5 +11,8 @@ class PersegiPanjang:
     def __str__(self):
         return f"Persegi panjang dengan panjang {self.panjang} cm dan lebar {self.lebar} cm"
 
+# membuat object 
+persegi = PersegiPanjang(3,2)
+
 
 
