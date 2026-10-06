@@ -8,5 +8,5 @@ class PersegiPanjang:
 
     def luas(self):
         return self.panjang
-    
-
+    def __str__(self):
+        
