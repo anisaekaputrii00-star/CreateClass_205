@@ -14,5 +14,6 @@ class PersegiPanjang:
 # membuat object 
 persegi = PersegiPanjang(3,2)
 
+print("Keliling:", persegi.keliling(), "cm")
 
 
